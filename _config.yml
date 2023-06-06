@@ -11,12 +11,7 @@ author: John Doe
 language: en
 timezone: ''
 
-# Setup the navigation menu in the theme's _config.yml:
-nav:
-  Home: /
-  About: /about/
-  Writing: /posts/
-  Projects: https://github.com/Zhangang1999
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
